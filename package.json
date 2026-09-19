@@ -132,7 +132,7 @@
     "vscode": "^1.1.0"
   },
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.6.1",
     "lodash.groupby": "^4.6.0",
     "mkdirp": "^0.5.1",
     "path.join": "^1.0.0"
